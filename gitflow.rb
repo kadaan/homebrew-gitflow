@@ -1,4 +1,4 @@
-class GitFlowAvh < Formula
+class GitFlow < Formula
   desc "AVH edition of git-flow"
   homepage "https://github.com/kadaan/gitflow-avh"
 
